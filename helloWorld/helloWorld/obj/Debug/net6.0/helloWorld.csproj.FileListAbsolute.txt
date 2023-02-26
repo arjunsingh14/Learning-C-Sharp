@@ -1,0 +1,15 @@
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/bin/Debug/net6.0/helloWorld
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/refint/helloWorld.dll
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache
+/Users/arjunbhandal/Projects/helloWorld/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll

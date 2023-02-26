@@ -1,0 +1,15 @@
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/arjunbhandal/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator
+/Users/arjunbhandal/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/arjunbhandal/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/arjunbhandal/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/arjunbhandal/Projects/Calculator/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/arjunbhandal/Projects/Calculator/Calculator/obj/Debug/net6.0/ref/Calculator.dll
